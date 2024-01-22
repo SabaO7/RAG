@@ -1,0 +1,17 @@
+Overview of RAG: 
+> Its a framework that combines the capabilities of two different types of models: a retriever model and a generator model. The RAG approach is particularly used in natural language processing tasks that benefit from external knowledge or information retrieval, such as question answering or fact verification.
+> Retrieval-augmented generation (“RAG”) models combine the powers of pretrained dense retrieval (DPR) and Seq2Seq models.
+
+1) great intro videos to RAG can be accessed here: https://research.ibm.com/blog/retrieval-augmented-generation-RAG
+
+2 ) Video (concept/theory in more details) "Building Production-Ready RAG Applications: Jerry Liu" can be accessed here : https://www.youtube.com/watch?v=TRjq7t2Ms5I 
+
+3) great detailed resource from huggingface can be accessed here: https://huggingface.co/docs/transformers/model_doc/rag
+
+4) Video walkthrough (includes code) "Chatbots with RAG: LangChain Full walkthrough" can be accessed here: https://www.youtube.com/watch?v=LhnCsygAvzY
+    * RAG pipeline includes that the input goes to an embedding model
+
+5) Video of using RAG & Langchain python project: https://youtu.be/tcqEUSNCn8I?si=UYYc6cIN8gCb_CSt 
+
+6) https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/?utm_campaign=truerallamaindex-launch&utm_medium=video&utm_source=youtube&utm_content=teaser
+
